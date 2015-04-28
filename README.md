@@ -14,3 +14,13 @@ one click command that will start mongodb to your enviroment
 > C:\mongodb\bin\mongod.exe --config C:\mongodb\mongod.cfg --install
 > net start mongodb
 > pause
+
+
+> ## This is a header.
+> 
+> 1.   This is the first list item.
+> 2.   This is the second list item.
+> 
+> Here's some example code:
+> 
+>     return shell_exec("echo $input | $markdown_script");
