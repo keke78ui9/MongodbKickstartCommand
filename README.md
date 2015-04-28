@@ -1,6 +1,5 @@
 # MongodbKickstartCommand
-one click command that will start mongodb to your enviroment
-
+save following and save as *.cmd file at your windows enviroment, command will setup basic setting and setup as windows service.
 
 >     :: this command require mongo db file at C drive.
 >     :: taks will be remove the mongo db service, and add mongo db to windows service.
